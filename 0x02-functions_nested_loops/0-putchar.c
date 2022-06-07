@@ -6,7 +6,7 @@
 
  * main - program that prints _putchar
 
- * Description: prints _putchar
+ * Description: prints '_putchar\n'
 
  * Return: always 0 (Success)
 
