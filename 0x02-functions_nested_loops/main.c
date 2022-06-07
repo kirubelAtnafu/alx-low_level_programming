@@ -2,9 +2,7 @@
 
 
 
-/**
-
- *
+/*
 
  * main - check the code
 
