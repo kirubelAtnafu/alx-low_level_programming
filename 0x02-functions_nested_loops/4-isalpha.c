@@ -3,6 +3,7 @@
 
 
 /**
+
  * _isalpha - Entry point
 
  * @c: the integer value it receives
@@ -34,7 +35,7 @@ else if (c >= 'A' && c <= 'Z')
 return (1);
       
 }
- 
+  
 else
     
 {
