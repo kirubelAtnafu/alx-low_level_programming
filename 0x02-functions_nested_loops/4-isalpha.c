@@ -4,13 +4,13 @@
 
 /**
 
- * _isalpha - tests whether a character is from the English alphabet.
+ * _isalpha - Entry point
 
- * @c: character to be checked.
+ * @c: the integer value it receives
 
- ** Return: 1 if the character is an English character.
+ * Description: checks if alphabet
 
- * 0 if the character is not an English character.
+ * Return: 1 if true. 0 if false
 
  */
 
@@ -20,12 +20,28 @@ int _isalpha(int c)
   
 {
   
-if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+if (c >= 'a' && c <= 'z')
     
+{
+      
 return (1);
+      
+}
+  
+else if (c >= 'A' && c <= 'Z')
+    
+{
+      
+return (1);
+      
+}
   
 else
-    
+   
+{
+      
 return (0);
+      
+}
   
 }
