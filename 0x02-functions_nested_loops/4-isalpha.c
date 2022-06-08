@@ -4,13 +4,9 @@
 
 /**
  * _isalpha - tests whether a character is from the English alphabet.
-
  * @c: character to be checked.
-
  * Return: 1 if the character is an English character.
-
  * 0 if the character is not an English character.
-
  */
 
 
