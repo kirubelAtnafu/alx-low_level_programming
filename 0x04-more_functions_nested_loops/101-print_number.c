@@ -34,7 +34,6 @@ aux = aux / 10;
 for (i = aux; i >= 1; i = i / 10)
 _putchar((num2 / i) % 10 + '0');
 }
- else
-
+else
 _putchar(num + '0');
 }
