@@ -3,10 +3,10 @@
 
 
 /**
-* print_number - function that prints an integer..
-* @n: input value to check
-* Return: nothing.
-*/
+ * print_number - function that prints an integer..
+ * @n: input value to check
+ * Return: nothing.
+ */
 
 
 
