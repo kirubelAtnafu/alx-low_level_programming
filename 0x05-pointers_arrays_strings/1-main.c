@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 #include <stdio.h>
 
@@ -6,15 +6,13 @@
 
 /**
 
- * main - checks my code
+ * main - check the code
 
  *
 
- * Return: Always 0
+ * Return: Always 0.
 
  */
-
-
 
 int main(void)
   
