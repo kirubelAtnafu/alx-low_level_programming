@@ -11,7 +11,7 @@
 
 
 
-int get_prime(int n, int i) 
+int get_prime(int n, int i)
 {
 if (n < 2)
 return (0);
