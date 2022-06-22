@@ -33,7 +33,7 @@ return (1 + str_len(s + 1));
 
 
 
-int check_palindrome(char *s, int len, int i)
+int check_palindrome (char *s, int len, int i)
 {
 if (s[i] == s[len / 2])
 {
