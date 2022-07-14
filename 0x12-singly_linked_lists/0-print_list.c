@@ -17,7 +17,7 @@ if (h->str == NULL)
 printf("(nil)\n");
 else
 printf("%s\n", h->str);
-h = h->next;
+h=h->next;
 nodes++;
 }
 return (nodes);
